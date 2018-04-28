@@ -1,0 +1,179 @@
+﻿X,Y,OBJECTID,Address,Notes,AP_Name,Neighborhood
+-71.059205028972116,42.297974416794538,3202,"40 Gibson St., Dorchester, MA",lower roof,DOT-BPDC11-AP1,Dorchester
+-71.067802203583497,42.314698685398,3203,"500 Columbia Rd., Dorchester, MA",,DOT-BPL-AP3,Dorchester
+-71.067646411458711,42.314994066214183,3204,"500 Columbia Rd., Dorchester, MA",,DOT-BPL-AP2,Dorchester
+-71.063233707120048,42.318381430192687,3205,"641 Columbia Rd., Dorchester, MA",,DOT-BFD21-AP1,Dorchester
+-71.063282154161655,42.318291816482635,3206,"641 Columbia Rd., Dorchester, MA",,DOT-BFD21-AP2,Dorchester
+-71.063148424660255,42.318299660360886,3207,"641 Columbia Rd., Dorchester, MA",,DOT-BFD21-AP3,Dorchester
+-71.068354127595754,42.313098376590702,3208,,,DOT-BPL-AP5,Dorchester
+-71.073871683377064,42.305481239619667,3209,"85 Olney St., Dorchester, MA",need photo,DOT-HOLLAND-AP1,Dorchester
+-71.073786364086331,42.305699233704964,3211,"85 Olney St., Dorchester, MA",need photo,DOT-HOLLAND-AP2,Dorchester
+-71.063431939252126,42.303776023811054,3212,"77 Mt. Ida Rd., Dorchester, MA",need address verification,DOT-MTIDA-AP1,Dorchester
+-71.060976442033692,42.308310045609645,3602,"1 Parish St., Dorchester, MA",,DOT-MATHER-AP1,Dorchester
+-71.061095164279962,42.308483572127024,3603,"1 Parish St., Dorchester, MA",,DOT-MATHER-AP3,Dorchester
+-71.060726166005637,42.308362660858137,3604,"1 Parish St., Dorchester, MA",,DOT-MATHER-AP2,Dorchester
+-71.061952965544762,42.300970500377666,3605,"11 Charles St., Dorchester, MA",,DOT-CLEVELAND-AP1,Dorchester
+-71.061660306103292,42.305159790226568,3606,"88-98 Linden St., Dorchester, MA",,DOT-LINDEN-AP1,Dorchester
+-71.07521522258061,42.296547620291079,3607,"40 School St., Dorchester, MA",,DOT-HOLMES-AP1,Dorchester
+-71.080654586304661,42.296586221322343,3608,"189 Glenway St., Dorchester, MA",,DOT-GREENWOOD-AP1,Dorchester
+-71.068804209604224,42.327454605015099,3610,"125 Magazine St., Roxbury, MA",need location verification,ROX-MAGAZINE-AP2,Roxbury
+-71.071034274602098,42.326078346110862,3611,"150 Norfolk Ave., Roxbury, MA - fire escape",need location verification,ROX-MASON-AP1,Roxbury
+-71.071272689275148,42.326206724867625,3612,"150 Norfolk Ave., Roxbury, MA - fire escape",need location verification,ROX-MASON-AP2,Roxbury
+-71.072725861570916,42.323551429798712,3613,"6 Shirley St., Roxbury, MA",need location verification,ROX-EMERSON-AP2,Roxbury
+-71.076771407384953,42.326639254660435,3614,"339 Dudley St., Roxbury, MA",need location verification,ROX-VINE-AP3,Roxbury
+-71.077727775395999,42.330472660551827,3615,"906 Albany St., Roxbury, MA",need location verification,ROX-ORCHARD-AP1,Roxbury
+-71.075769502873854,42.318016649107953,3619,"35 Brookford St., Roxbury, MA",need location verification,ROX-WINTHROP-AP3,Roxbury
+-71.075818343377534,42.318439960601708,3620,"Brookford St. & Judson St., Roxbury, MA",need location verification,ROX-WINTHROP-AP4,Roxbury
+-71.085083933730573,42.316317318692356,3621,"205 Townsend St., Roxbury, MA",need location verification,ROX-BLA-AP1,Roxbury
+-71.088363911903286,42.314593827475456,3622,"Humboldt Ave. & Waumbeck St., Roxbury, MA",need location verification,ROX-TROTTER-AP2,Roxbury
+-71.088063477543045,42.315226872267957,3623,"135 Humboldt Ave., Roxbury, MA",need location verification,ROX-TROTTER-AP1,Roxbury
+-71.097346090072406,42.315305551967732,3626,"1990 Columbus Ave., Roxbury, MA",need location verification,ROX-EGLESTON-AP2,Roxbury
+-71.096372520221976,42.317662052625352,3628,"Washington St. & Cobden St., Roxbury, MA",need location verification,ROX-EGLESTON-AP1,Roxbury
+-71.053841348310755,42.359953364791444,3629,"Faneuil Hall Square, Boston, MA","need photo,S Market furthest from city hall",DT-QUINCYMARKET-AP3,Downtown
+-71.058370449157394,42.360615098469083,3630,"1 City Hall Square, Boston, MA","need photo, right side facing Faneuil Hall",DT-CITYHALL-AP1,Downtown
+-71.057505945562269,42.360179431645747,3631,"1 City Hall Square, Boston, MA","need photo, right side facing plaza",DT-CITYHALL-AP3,Downtown
+-71.059929720573052,42.3601907246452,3632,"1 City Hall Square, Boston, MA","need photo, light pole facing Court St",DT-CITYHALL-MARKETPOLE,Downtown
+-71.067816243353079,42.314800472245508,4005,"500 Columbia Rd., Dorchester, MA",,DOT-BPL-AP1,Dorchester
+-71.067448020324861,42.314818190866909,4006,"500 Columbia Rd., Dorchester, MA",,DOT-BPL-AP4,Dorchester
+-71.070661180908402,42.299828485279107,4007,"35 Westville St., Dorchester, MA",,DOT-MARSHALL-AP2,Dorchester
+-71.071225018377959,42.29976588988864,4008,"35 Westville St., Dorchester, MA",,DOT-MARSHALL-AP1,Dorchester
+-71.075395042842601,42.296514431916904,4009,"40 School St., Dorchester, MA",,DOT-HOLMES-AP2,Dorchester
+-71.08062391063433,42.296446334166248,4010,"189 Glenway St., Dorchester, MA",,DOT-GREENWOOD-AP2,Dorchester
+-71.076421693244839,42.311153848035516,4406,"77 Lawrence Ave., Roxbury, MA",need location verification,ROX-MLKSCHOOL-AP3,Roxbury
+-71.076130843908686,42.311035185255413,4407,"77 Lawrence Ave., Roxbury, MA",need location verification,ROX-MLKSCHOOL-AP1,Roxbury
+-71.077764490439975,42.310683235901436,4409,"Fernboro St. & Intervale St., Roxbury, MA",need location verification,ROX-MLKSCHOOL-AP4,Roxbury
+-71.076739810043136,42.310957828829622,4805,"77 Lawrence Ave., Roxbury, MA",need location verification,ROX-MLKSCHOOL-AP2,Roxbury
+-71.06886535433236,42.327537503262896,4806,"125 Magazine St., Roxbury, MA",need location verification,ROX-MAGAZINE-AP1,Roxbury
+-71.073020295185074,42.323464893265125,4807,"6 Shirley St., Roxbury, MA",need location verification,ROX-EMERSON-AP1,Roxbury
+-71.07672951355336,42.3268760967687,4809,"339 Dudley St., Roxbury, MA",need location verification,ROX-VINE-AP1,Roxbury
+-71.076578958606689,42.326787484060127,4810,"339 Dudley St., Roxbury, MA",need location verification,ROX-VINE-AP2,Roxbury
+-71.077505825045492,42.327749463056691,4811,"Adams St. & Dudley St., Roxbury, MA",need location verification,ROX-VINE-AP5,Roxbury
+-71.075355108236664,42.326089875031897,4812,"Dunmore St. & Dudley St., Roxbury, MA",need location verification,ROX-VINE-AP4,Roxbury
+-71.086951665953549,42.322746237332076,5207,"Rockland St., Roxbury, MA",need address verification,ROX-SHELBOURNE-AP3,Roxbury
+-71.075691806686621,42.318213401558701,5210,"35 Brookford St., Roxbury, MA",need location verification,ROX-WINTHROP-AP1,Roxbury
+-71.075580853969228,42.318141950329498,5211,"35 Brookford St., Roxbury, MA",need location verification,ROX-WINTHROP-AP2,Roxbury
+-71.077792004938814,42.319726385038948,5213,"Waverly St. & Blue Hill Ave., Roxbury, MA",need location verification,ROX-WINTHROP-AP5,Roxbury
+-71.083923213365452,42.31600821597219,5214,"205 Townsend St., Roxbury, MA",need location verification,ROX-BLA-AP2,Roxbury
+-71.086560167576323,42.317016929170293,5215,"Townsend St. & Humboldt Ave., Roxbury, MA",need location verification,ROX-BLA-AP3,Roxbury
+-71.089463794764114,42.313235811421322,5217,"Crawford St. & Waumbeck St., Roxbury, MA",need location verification,ROX-TROTTER-AP3,Roxbury
+-71.085963520937653,42.311659224735216,5218,"Elm Hill Ave. & Crawford St., Roxbury, MA",need location verification,ROX-BLA-AP4,Roxbury
+-71.079467076381135,42.313649440011204,5220,"Holborn St. & Blue Hill Ave., Roxbury, MA",need location verification,ROX-MLKSCHOOL-AP6,Roxbury
+-71.080604234834666,42.311932378526272,5221,"Intervale St. & Blue Hill Ave., Roxbury, MA",need location verification,ROX-MLKSCHOOL-AP5,Roxbury
+-71.097204458091468,42.315379868047906,5224,"1990 Columbus Ave., Roxbury, MA",need location verification,ROX-EGLESTON-AP3,Roxbury
+-71.094545256204242,42.320345144243134,5229,"2875 Washington St., Roxbury, MA",need location verification,ROX-COUNCIL-AP2,Roxbury
+-71.094740160078189,42.320465052789785,5230,"2875 Washington St., Roxbury, MA",need location verification,ROX-COUNCIL-AP1,Roxbury
+-71.09194751076059,42.321692432271014,5231,"Washington St. & Valentine St., Roxbury, MA",need location verification,ROX-COUNCIL-AP3,Roxbury
+-71.090288143666072,42.322221524176882,5232,"2730 Washington St., Roxbury, MA",need location verification,ROX-SHELBOURNE-AP2,Roxbury
+-71.055737805063259,42.360215260841876,5233,"Faneuil Hall Square, Boston, MA","need photo, N Market closest to city hall",DT-QUINCYMARKET-AP1,Downtown
+-71.054009370998131,42.360410113641507,5234,"Faneuil Hall Square, Boston, MA","need photo, N Market furthest from city hall",DT-QUINCYMARKET-AP2,Downtown
+-71.055120616648992,42.359894810614762,5235,"Faneuil Hall Square, Boston, MA","need photo,S Market closest to city hall",DT-QUINCYMARKET-AP4,Downtown
+-71.057582440701964,42.360643400133426,5236,"1 City Hall Square, Boston, MA","need photo, left side facing Faneuil Hall",DT-CITYHALL-AP2,Downtown
+-71.058392621375248,42.360136494598358,5237,"1 City Hall Square, Boston, MA","need photo, left side facing plaza",DT-CITYHALL-AP4,Downtown
+-71.074396038991566,42.310630453857904,5623,"Lawrence Ave. & Magnolia St., Roxbury, MA",need location verification,ROX-MLKSCHOOL-AP7,Roxbury
+-71.090211269437305,42.322686437026633,5626,"2730 Washington St., Roxbury, MA",need address verification,ROX-SHELBOURNE-AP1,Roxbury
+-71.052762745640692,42.360909483743647,5627,"Cross St. & Atlantic St., Boston, MA",,CP-GREENWAY-AP1,
+-71.124352768584643,42.256383884618394,6027,"1249 Hyde Park Ave., Hyde Park, MA",need photo,HP-BPDE18-AP4,Hyde Park
+-71.125758289746173,42.288646178720718,6427,"Firth St. & Washington St., Roslindale, MA",need location verification & photo,ROS-COMMUNITY-AP3,Roslindale
+-71.136181641413799,42.353801909560758,7230,"460 Cambridge St., Allston, MA",need address verification & photo,AB-BFDE41-AP1,Allston Brighton
+-71.137549122516305,42.352249616717096,7630,"40 Armington St., Allston, MA",need address verification & photo,AB-JACKSON-AP1,Allston Brighton
+-71.168175283089852,42.351224568700495,8030,"425 Faneuil St., Brighton, MA",need address verification & photo,AB-OAKSQUARE-AP1,Allston Brighton
+-71.037989151292749,42.369848347655832,8031,"154 Maverick St., East Boston",need photo,EB-154MAVERICK-AP1,East Boston
+-71.038410259040049,42.371069027933778,8032,"69 Paris St., East Boston MA",need photo,EB-BPDA7-AP2,East Boston
+-71.060869440106941,42.38021110103665,8430,"240 Medford St., Charlestown, MA",need address verification & photo,CHL-HIGHSCHOOL-AP1,Charlestown
+-71.038301854843127,42.372390164975002,8831,"10 Gove St., East Boston MA",need photo,EB-10GOVE-AP1,East Boston
+-71.038703960527258,42.371255297681472,8832,"69 Paris St., East Boston MA",need photo,EB-BPDA7-AP4,East Boston
+-71.05197814719007,42.361389137790574,9230,"110 Atlantic Ave., Boston, MA",need address verification & photo,CP-COLUMBUS-AP1,Columbus Park
+-71.038602261355621,42.372350533325402,9630,"10 Gove St., East Boston MA",need photo,EB-10GOVE-AP2,East Boston
+-71.038498770943306,42.370995708118848,9631,"69 Paris St., East Boston MA",need photo,EB-BPDA7-AP1,East Boston
+-71.038788449774671,42.371189904961597,9632,"69 Paris St., East Boston MA",need photo,EB-BPDA7-AP3,East Boston
+-71.038564430604055,42.368114004230769,10031,"239 Sumner St., East Boston, MA",need photo,EB-ENGINE9-AP1,East Boston
+-71.038690493882825,42.368169491744574,10032,"239 Sumner St., East Boston, MA",need photo,EB-ENGINE9-AP2,East Boston
+-71.124186007131925,42.256401499333556,10033,"1249 Hyde Park Ave., Hyde Park, MA",need photo,HP-BPDE18-AP3,Hyde Park
+-71.122363267928279,42.255168293158363,10034,"27 Maple St., Hyde Park, MA",need address verification & photo,HP-MAPLE-AP1,Hyde Park
+-71.065515817810564,42.355839663077639,10035,"Boston Common, Boston, MA","need photo, left side of building",PARKS-FROGPOND-AP1,Parks
+-71.065848411857985,42.355918945857518,10036,"Boston Common, Boston, MA","need photo, left side of building",PARKS-FROGPOND-AP2,Parks
+-71.131742710760435,42.268487434792227,10037,"420 West St., Hyde Park, MA","need location verification & photo, maintenance shed",PARKS-GEORGEWRIGHT-AP1,Parks
+-71.132831688073708,42.268412011055695,10038,"420 West St., Hyde Park, MA","need location verification & photo, clubhouse exterior",PARKS-GEORGEWRIGHT-AP2,Parks
+-71.132810230016531,42.268284980875919,10039,"420 West St., Hyde Park, MA","need location verification & photos, clubhouse interior",PARKS-GEORGEWRIGHT-AP3,Parks
+-71.117486712204453,42.315853341879297,10040,"507 Jamaicaway, Jamaica Plain, MA",need location verification & photo - boat house,PARKS-JAMAICAPOND-AP1,Parks
+-71.117427703670089,42.315865241999518,10041,"507 Jamaicaway, Jamaica Plain, MA",need location verification & photo - inside boathouse,PARKS-JAMAICAPOND-AP3,Parks
+-71.03961049090465,42.376537636099521,10430,"276 Meridian St., East Boston, MA",need photo,EB-BPL-AP1,East Boston
+-71.124309388939579,42.256584138767046,10431,"1249 Hyde Park Ave., Hyde Park, MA",need photo,HP-BPDE18-AP1,Hyde Park
+-71.121084784717596,42.256383429174221,10432,"1179 River St., Hyde Park, MA",need address verification & photo,HP-COMMUNITY-AP2,Hyde Park
+-71.039610491802961,42.376579246656185,10830,"276 Meridian St., East Boston, MA",need photo,EB-BPL-AP2,East Boston
+-71.12414309281418,42.256520612125392,10831,"1249 Hyde Park Ave., Hyde Park, MA",need photo,HP-BPDE18-AP2,Hyde Park
+-71.12218985445088,42.257137807713583,10832,"35 Harvard Ave., Hyde Park, MA","need photo, north roof",HP-BPL-AP1,Hyde Park
+-71.121020411444348,42.256236522668964,10833,"1179 River St., Hyde Park, MA",need address verification & photo,HP-COMMUNITY-AP1,Hyde Park
+-71.06698443663764,42.354818189325826,10834,"Boston Common, Boston, MA",need photo,PARKS-BOSTONCOMMON-AP1,Parks
+-71.067767641801254,42.356126372960134,10835,"Boston Common, Boston, MA",need photo,PARKS-BOSTONCOMMON-AP2,Parks
+-71.098102934174008,42.304134504089255,10836,"100 Jewish War Veterans Drive, Boston, MA",Need location verification & photo,PARKS-FRANKLIN-AP1,Parks
+-71.096643812336112,42.304324940529568,10837,"100 Jewish War Veterans Drive, Boston, MA",need location verification & photo,PARKS-FRANKLIN-AP2,Parks
+-71.119779138249356,42.255061462430177,11230,"60 Fairmount Ave., Hyde Park, MA",need photo,HP-BFD48-AP1,Hyde Park
+-71.119734211705378,42.25509223446975,11231,"60 Fairmount Ave., Hyde Park, MA",need photo,HP-BFD48-AP2,Hyde Park
+-71.12213621065537,42.256943257965339,11232,"35 Harvard Ave., Hyde Park, MA","need photo, south roof",HP-BPL-AP2,Hyde Park
+-71.121224259843558,42.25730853383012,11233,"26 Central Ave., Hyde Park, MA",need address verification & photo,HP-CENTRAL-AP1,Hyde Park
+-71.068100235848689,42.354723047913232,11234,"Boston Common, Boston, MA",need photo,PARKS-BOSTONCOMMON-AP3,Parks
+-71.063926719632519,42.355444535520839,11235,"Boston Common, Boston, MA",need photo,PARKS-BOSTONCOMMON-AP4,Parks
+-71.117610094012107,42.315639139995113,11236,"507 Jamaicaway, Jamaica Plain, MA",need location verifcation & photo - bandstand,PARKS-JAMAICAPOND-AP2,Parks
+-71.11709063601252,42.279188855649011,11630,Cummins Highway & American Legion Highway,need address verification & photo,PARKS-MTHOPE-AP1,Parks
+-71.128249497692096,42.286133640621664,11631,"6 Cummings Highway, Roslindale, MA",need location verification & photo,ROS-COMMUNITY-AP1,Roslindale
+-71.128611596006706,42.285602843101209,12030,"4246 Washington St., Roslindale MA",need location verification & photo,ROS-BPL-AP1,Roslindale
+-71.128702790279405,42.285506604764663,12430,"4246 Washington St., Roslindale, MA",need location verification & photo,ROS-BPL-AP2,Roslindale
+-71.128295095277608,42.286080065103178,12830,"6 Cummings Highway, Roslindale, MA",need location verification & photo,ROS-COMMUNITY-AP2,Roslindale
+-71.122496851004286,42.287513937667342,12831,"160 Florence St., Roslindale, MA",need location verification & photo,ROS-COMMUNITY-AP4,Roslindale
+-71.082402477878844,42.328937107149549,13230,"174 Dudley St., Roxbury, MA","need location verification & photo; rear roof",ROX-BFDE14-AP1,Roxbury
+-71.084242717162553,42.328357624986495,13231,"2400 Washington St., Roxbury, MA",need location verification & photo,ROX-BPDB2-AP1,Roxbury
+-71.083410964346044,42.328011598887791,13232,"65 Warren St., Roxbury, MA",need location verification & photo,ROX-BPL-AP2,Roxbury
+-71.082815514263316,42.324061413902378,13233,"Warren St. & Whiting St., Roxbury, MA",need location verification & photo,ROX-BPL-AP5,Roxbury
+-71.099388685653651,42.319139700916296,13234,"85 Bradgon St., Roxbury, MA",need location verification & photo,ROX-BRAGDON-AP1,Roxbury
+-71.074785215223784,42.308871726396212,13235,"270 Columbia Rd., Roxbury, MA",need address verification & photo,ROX-FREDERICK-AP2,Roxbury
+-71.0761477780501,42.307582395464479,13236,"Devon St. & Columbia Rd., Roxbury, MA",need address verification & photo,ROX-FREDERICK-AP3,Roxbury
+-71.073208149080642,42.309560573273444,13237,"Columbia Terrace & Columbia Rd., Roxbury, MA",need address verification & photo,ROX-FREDERICK-AP4,Roxbury
+-71.081380035185404,42.307933550335093,13238,"41 Geneva Ave., Roxbury, MA",need address verification & photo,ROX-GROVEHALL-AP1,Roxbury
+-71.080791290127962,42.307638984746688,13239,"41 Geneva Ave., Roxbury, MA",need address verification & photo,ROX-GROVEHALL-AP2,Roxbury
+-71.081996749289203,42.310279634230923,13240,"Sunderland St. & 429 Blue Hill Ave., Roxbury, MA",need address verification & photo,ROX-GROVEHALL-AP5,Roxbury
+-71.051397434867908,42.329460607414191,13241,"1187 Columbia Rd., South Boston, MA",need address verification & photo,SB-OLLIE-AP1,South Boston
+-71.03003243505475,42.331927785055846,13242,"745 E. 7th St., South Boston, MA",need address verification & photo,SB-PERRY-AP2,South Boston
+-71.081270685960803,42.306981889303806,13243,"60 Washington St., Dorchester, MA",need address verification & photo,ROX-BURKE-AP1,Roxbury
+-71.080455294160558,42.307331005993404,13244,"60 Washington St., Dorchester, MA",need address verification & photo,ROX-BURKE-AP2,Roxbury
+-71.070042184185482,42.313520791841505,13245,"Bird St. & Glendale St., Dorchester, MA",need address verification & photo,DOT-BPL-AP6,Dorchester
+-71.082437346884916,42.328736830548451,13630,"174 Dudley St., Roxbury, MA","need location verification & photo; front roof facing Dudley",ROX-BFDE14-AP2,Roxbury
+-71.079269658122712,42.328560348750656,13631,"Dudley St. & Mt. Pleasant Ave., Roxbury, MA",need location verification & photo,ROX-BFDE14-AP3,Roxbury
+-71.075002339824579,42.322821451232301,13632,"Dennis St. & Winthrop St., Roxbury, MA",need address verification & photo,ROX-EMERSON-AP3,Roxbury
+-71.08289330836692,42.309658403104699,13633,"683 Warren St., Roxbury, MA",need address verification & photo,ROX-GROVEHALL-AP4,Roxbury
+-71.079800836441777,42.307085037255767,13634,"Bishop Joe L Smith Way & Geneva Ave., Roxbury, MA",need address verification & photo,ROX-GROVEHALL-AP10,Roxbury
+-71.051446350830076,42.329067954565303,13635,"1163 Columbia Rd., South  Boston, MA",need address verification & photo,SB-CURLEY-AP3,South Boston
+-71.052604429249953,42.32989684777629,13636,"360 Old Colony Ave., South Boston, MA",need address verification & photo,SB-OLLIE-AP2,South Boston
+-71.082756529983456,42.328607939605511,14030,"175 Dudley St., Roxbury, MA","need location verification& photo; on traffic signal",ROX-BFDE14-AP4,Roxbury
+-71.097953977330221,42.318382075157984,14031,"1870 Columbus Ave., Roxbury, MA",need location verification & photo,ROX-BFDE42-AP1,Roxbury
+-71.0834538795621,42.327841064314804,14032,"65 Warren St., Roxbury, MA",need location verification & photo,ROX-BPL-AP3,Roxbury
+-71.083341227232225,42.325965148850038,14033,"Warren St. & Moreland St., Roxbury, MA",need location verification & photo,ROX-BPL-AP4,Roxbury
+-71.074972970304685,42.308717008131929,14034,"270 Columbia Rd., Roxbury, MA",need address verification & photo,ROX-FREDERICK-AP1,Roxbury
+-71.091008190078696,42.315441553821792,14036,"Harold St. & Waumbeck St., Roxbury, MA",need address verification & photo,ROX-TROTTER-AP4,Roxbury
+-71.051580461217156,42.329024330156777,14037,"1163 Columbia Rd., South Boston, MA",need address verification & photo,SB-CURLEY-AP1,South Boston
+-71.051446350830076,42.329155203291535,14038,"1163 Columbia Rd., South  Boston, MA",need address verification & photo,SB-CURLEY-AP2,South Boston
+-71.084006683025009,42.32834176175183,14430,"2400 Washington St., Roxbury, MA",need location verification & photo,ROX-BPDB2-AP2,Roxbury
+-71.084044234400523,42.328091908969043,14431,"2400 Washington St., Roxbury, MA",need location verification & photo,ROX-BPDB2-AP3,Roxbury
+-71.083646998483559,42.328043326183767,14432,"65 Warren St., Roxbury, MA",need location verification & photo,ROX-BPL-AP1,Roxbury
+-71.081776808469968,42.310228062893309,14433,"8 Stanwood St., Roxbury, MA",need address verification & photo,ROX-GROVEHALL-AP6,Roxbury
+-71.082967708635394,42.308665027615184,14434,"476 Blue Hill Ave., Roxbury, MA",need address verification & photo,ROX-GROVEHALL-AP7,Roxbury
+-71.077715943685405,42.306439419390017,14435,"Oldfields Rd. & Columbia Rd., Roxbury, MA",need address verification & photo,ROX-GROVEHALL-AP8,Roxbury
+-71.076406689582967,42.314161718392242,14436,"Wayland St. & Balfour St., Roxbury, MA",need address verification & photo,ROX-GROVEHALL-AP9,Roxbury
+-71.077534430997403,42.330656463317681,14437,"906 Albany St., Roxbury, MA",need address verification & photo,ROX-ORCHARD-AP2,Roxbury
+-71.07725816401323,42.330838888210529,14438,"906 Albany St., Roxbury, MA",need address verification & photo,ROX-ORCHARD-AP3,Roxbury
+-71.045068420110667,42.332523929267801,14439,"95 G St., South Boston, MA",need address verification & photo,SB-HIGHSCHOOL-AP1,South Boston
+-71.045127429543356,42.333269465331654,14440,"95 G St., South Boston, MA",need address verification & photo,SB-HIGHSCHOOL-AP2,South Boston
+-71.044655360369987,42.332912560822393,14441,"95 G St., South Boston, MA",need address verification & photo,SB-HIGHSCHOOL-AP3,South Boston
+-71.030201414447887,42.33191588797343,14442,"745 E. 7th St., South Boston, MA",need address verification & photo,SB-PERRY-AP1,South Boston
+-71.024828949161389,42.333073855683175,14443,"Farragut Rd. & Day Blvd., South Boston, MA",need address verification & photo,SB-PERRY-AP3,South Boston
+-71.04409209602558,42.330073115967387,14833,"1406 Columbia Rd., South Boston, MA",need address verification & photo,SB-HIGHSCHOOL-GSTREET-AP4,South Boston
+-71.11514356278704,42.308759754426653,15234,"20 South St, Jamaica Plain",,JP-Curtis Hall-BCYF-AP2,
+-71.115157842406802,42.308928765597891,15235,"20 South St, Jamaica Plain",,JP-Curtis Hall-BCYF-AP1,
+-71.115584269977219,42.308230435731922,15634,"55 South St, Jamaica Plain",,JP-Curtis Hall-BCYF-AP3,
+-71.039704078289262,42.368903859922945,17236,"201 Sumner St, East Boston",,EB-MAVERICKSQUARE,
+-71.114469847883512,42.310679024181084,17635,"746 Centre Street, Jamaica Plain",,JP-BFDE28-AP1,
+-71.1145396362013,42.310517746303098,18035,"746 Centre St, Jamaica Plain",,JP-BFDE28-AP2,
+-71.115211097231779,42.310025767003246,18036,"761 Centre St, Jamaica Plain",,JP-BFD28-AP3,
+-71.146104072716057,42.349190752530902,18435,"25 Warren St, Brighton MA",,AB-BRIGHTON-HIGH-AP1,
+-71.145535843383101,42.349056482730255,18436,"25 Warren St, Brighton MA",,AB-BRIGHTON-HIGH-AP2,
+-71.144855514184144,42.34887650273572,18437,"25 Warren St, Brighton MA",,AP-BRIGHTON-HIGH-AP3,

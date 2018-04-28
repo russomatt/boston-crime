@@ -1,0 +1,331 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" 
+        	  content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, width=device-width">
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+        <div class="title-screen">
+            <hr/>
+            <div class="intro">
+                <p>
+                    This project is a visualization of Boston crime data from August 2015 to January 2018, which was originally plotted in QGIS using datasets gathered from the City of Boston and Massachusetts GIS website. In order to allow for a granular view of the frequency of crime incidents across the city, they are visualized as a heat map showing the actual distribution of crime hotspots across neighborhood boundaries. For a more in-depth analysis of crime in Boston, factors that have previously been identified to affect crime have been plotted onto the map. You can interact with the legend to learn more about the individual factors and toggle the display of the heat map.
+                </p>
+                <div class="explore-button">
+                    Explore
+                </div>
+            </div>
+            <div class="title">
+                <h1>
+                    Boston
+                </h1>
+                <h1>
+                    Crime
+                </h1>
+                <h1>
+                    Map
+                </h1>
+            </div>
+        </div>
+        <div class="title-logo">
+            <h1>
+                Boston
+            </h1>
+            <h1>
+                Crime
+            </h1>
+            <h1>
+                Map
+            </h1>
+        </div>
+        <div id="visualization">
+        </div>
+        <div id="controls" class="controls">
+            <div class="information-screen hidden">
+                <div class="information-container">
+                    <div class="information-close">
+                        +
+                    </div>
+                    <h2 class="information-title">
+                    </h2>
+                    <p class="information-text">
+                    </p>
+                </div>
+            </div>
+            <div class="controls-container">
+                <h2>
+                    Legend
+                </h2>
+                <div class="fill-section">
+                    <div id="pop" class="control selected">
+                        population
+                        <hr/>
+                    </div>
+                    </br>
+                    <div id="dens" class="control">
+                        population density
+                        <hr/>
+                    </div>
+                    </br>
+                    <div id="crime" class="control">
+                        crime frequency
+                        <hr/>
+                    </div>
+                    </br>
+                    <div class="fill-scale">
+                        <div class="scale-border">
+                        </div>
+                        <div class="min">
+                            0
+                        </div>
+                        <div class="max">
+                            32,000
+                        </div>
+                    </div>
+                </div>
+                <div class="points-section">
+                    <div class="key">
+                        <div class="key-label-cell">
+                            <span class="key-label key-with-information">
+                                <span class="information-label-screen" data-info="mbta">
+                                </span>
+                                <span class="information">
+                                    +
+                                    <span class="information-circle">
+                                    </span>
+                                </span>
+                                MBTA
+                            </span>
+                        </div>
+                        <div class="key-icon-cell">
+                            <span class="key-icon key-mbta">
+                                <hr></hr>
+                            </span>
+                        </div>
+                    </div>
+                    <div class="key">
+                        <div class="key-label-cell">
+                            <span class="key-label key-with-information">
+                                <span class="information-label-screen" data-info="police">
+                                </span>
+                                <span class="information">
+                                    +
+                                    <span class="information-circle">
+                                    </span>
+                                </span>
+                                Police Station
+                            </span>
+                        </div>
+                        <div class="key-icon-cell">
+                            <div class="key-icon key-police">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="key">
+                        <div class="key-label-cell">
+                            <span class="key-label key-with-information">
+                                <span class="information-label-screen" data-info="hospital">
+                                </span>
+                                <span class="information">
+                                    +
+                                    <span class="information-circle">
+                                    </span>
+                                </span>
+                                Hospital
+                            </span>
+                        </div>
+                        <div class="key-icon-cell">
+                            <div class="key-icon key-hospital">
+                                +
+                            </div>
+                        </div>
+                    </div>
+                    <div class="key">
+                        <div class="key-label-cell">
+                            <span class="key-label key-with-information">
+                                <span class="information-label-screen" data-info="wifi">
+                                </span>
+                                <span class="information">
+                                    +
+                                    <span class="information-circle">
+                                    </span>
+                                </span>
+                                Public Wi-Fi
+                            </span>
+                        </div>
+                        <div class="key-icon-cell">
+                            <span class="key-icon key-wifi">
+                            </span>
+                        </div>
+                    </div>
+                    <div class="key">
+                        <div class="key-label-cell">
+                            <span class="key-label key-with-information">
+                                <span class="information-label-screen" data-info="openspace">
+                                </span>
+                                <span class="information">
+                                    +
+                                    <span class="information-circle">
+                                    </span>
+                                </span>
+                                Open Space
+                            </span>
+                        </div>
+                        <div class="key-icon-cell">
+                            <span class="key-icon key-open-space">
+                            </span>
+                        </div>
+                    </div>
+                </div>
+                <div class="heat-map-section">
+                    <div class="heat-map-title">
+                        <h3>
+                            Heat Map
+                        </h3>
+                        <div class="toggle-holder">
+                            <div class="curve-toggle">
+                                <input id="toggle-curve" class="toggle toggle-switch" type="checkbox">
+                                <label id="heat-map-toggle" for="toggle-curve"></label>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="key">
+                        <div class="key-label-cell">
+                            <div class="key-label">
+                                <label>
+                                    <input class="hm-checkbox hm-checkbox-0 hm-checkbox-disabled" type="checkbox" checked="true" disabled="true" value="0"></input>
+                                    <span class="checkbox">
+                                    </span>
+                                    <span>
+                                        2,225-2,671
+                                    </span>
+                                </label>
+                            </div>
+                        </div>
+                        <div class="key-icon-cell">
+                            <div class="key-icon hm-0">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="key">
+                        <div class="key-label-cell">
+                            <div class="key-label">
+                                <label>
+                                    <input class="hm-checkbox hm-checkbox-1 hm-checkbox-disabled" type="checkbox" checked="true" disabled="true" value="1"></input>
+                                    <span class="checkbox">
+                                    </span>
+                                    <span>
+                                        1,780-2,225
+                                    </span>
+                                </label>
+                            </div>
+                        </div>
+                        <div class="key-icon-cell">
+                            <div class="key-icon hm-1">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="key">
+                        <div class="key-label-cell">
+                            <div class="key-label">
+                                <label>
+                                    <input class="hm-checkbox hm-checkbox-2 hm-checkbox-disabled" type="checkbox" checked="true" disabled="true" value="2"></input>
+                                    <span class="checkbox">
+                                    </span>
+                                    <span>
+                                        890-1,335
+                                    </span>
+                                </label>
+                            </div>
+                        </div>
+                        <div class="key-icon-cell">
+                            <div class="key-icon hm-2">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="key">
+                        <div class="key-label-cell">
+                            <div class="key-label">
+                                <label>
+                                    <input class="hm-checkbox hm-checkbox-3 hm-checkbox-disabled" type="checkbox" checked="true" disabled="true" value="3"></input>
+                                    <span class="checkbox">
+                                    </span>
+                                    <span>
+                                        445-890
+                                    </span>
+                                </label>
+                            </div>
+                        </div>
+                        <div class="key-icon-cell">
+                            <div class="key-icon hm-3">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="key">
+                        <div class="key-label-cell">
+                            <span class="key-label">
+                                <label>
+                                    <input class="hm-checkbox hm-checkbox-4 hm-checkbox-disabled" type="checkbox" checked="true" disabled="true" value="4"></input>
+                                    <span class="checkbox">
+                                    </span>
+                                    <span>
+                                        1-445
+                                    </span>
+                                </label>
+                            </span>
+                        </div>
+                        <div class="key-icon-cell">
+                            <div class="key-icon hm-4">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="tooltip" class="tooltip">
+            <div class="tooltip-close">
+                <span>
+                    +
+                </span>
+                CLOSE
+            </div>
+            <div class="neighborhood">
+
+            </div>
+            <div class="number-section">
+                <div class="number-container">
+                    <span class="number-label">
+                        Population
+                    </span>
+                    <span class="number population">
+
+                    </span>
+                </div>
+                </br>
+                <div class="number-container">
+                    <span class="number-label">
+                        Population Density
+                    </span>
+                    <span class="number pop-dens">
+
+                    </span>
+                    <span class="number-label number-unit">
+                        per sq mi
+                    </span>
+                </div>
+                </br>
+                <div class="number-container">
+                    <span class="number-label">
+                        Crimes
+                    </span>
+                    <span class="number crimes">
+
+                    </span>
+                </div>
+            </div>
+        </div>
+    </body>
+    <script type="text/javascript" src="bundle.js" charset="utf-8"></script>
+
+</html>

@@ -1,0 +1,23 @@
+{"data": [
+
+	{"info" : "wifi",
+		"title" : "Public Wi-Fi",
+		"content" : "Free WiFi access points (operated by Wicked Free WiFi in Boston) are indicated on the map as well. The assumption is that these access points lead to a higher number of people (especially tourists without mobile internet on their phones) loitering or waiting in a certain spot, which could potentially attract crimes such as pickpocketing or drug dealings, as has been suggested in the /linkmedia/address https://progrss.com/connectivity/20160713/are-wifi-hotspots-also-crime-hotspots/ /link. Just like hospitals, free WiFi spots do overlap with high-crime areas, yet their distribution does not allow for any reliable conclusions to be drawn. There is no significant crime increase around such access points in areas that do not already exhibit a high number of crimes."},
+
+	{"info" : "police",
+		"title" : "Police Stations",
+		"content" : "Seeing as one of the first associations with crime is policing, the map shows the locations of Boston police stations. Interestingly, 12 out 13 police stations within the Boston city limits fall on or near areas with a higher crime density than their surroundings. This can mean many things, one possibility being that more crimes are noticed in the vicinity of police stations by police offers on patrol, another that people are more inclined to report crimes occurring within close proximity to a police station they know, or potentially that the location of at least some of these stations were chosen based on pre-existing crime patterns in order to allow for more regular policing of the affected areas."},
+
+	{"info" : "hospital",
+		"title" : "Hospitals",
+		"content" : "Out of interest, the map includes places that may draw larger crowds to certain areas, such as hospitals with urgent care facilities. Hospitals not only experience traffic from emergency and hospitalized patients and their family, but in the United States also service populations such as people suffering from drug addiction, in methadone clinics and detox centers to name but a few, which have been shown to be prone to a higher incidence of theft and violent crime /link (cf. Bennett, Holloway & Farrington, 2008)/address https://pure.southwales.ac.uk/en/publications/the-statistical-association-between-drug-misuse-and-crime(13858b07-d968-47b1-b484-d5f379672bb1).html /link. While hospitals do overlap with high-crime areas, their distribution on the map remains inconclusive with regards to any potential crime increases, and there appears to be no significant increase around hospitals in areas that do not already have a high incidence of crime."},
+
+	{"info" : "openspace",
+		"title" : "Open Space",
+		"content" : "Open spaces are indicated on the map to help explain areas that appear to be devoid of crime and are based on the data available for recreational spaces in Boston, such as parks or other green spaces. The gaps in the heat map coincide with large open spaces, explaining why little to no crimes would occur or be reported in those areas."},
+
+	{"info" : "mbta",
+		"title" : "MBTA Subway Lines",
+		"content" : "The Massachusetts Bay Transport Authority (MBTA) subway and express bus network has been included in the map to look into whether or not access to rapid transport has an effect on the incidence of crime, as suggested by /link Wang (2017)/address https://www.sciencedirect.com/science/article/pii/S2352146517304362 /link for the San Francisco Bay Area. The study showed a significant correlation of the location of stations of the rapid transit system BART show with a variety of crimes, irrespective of whether or not they are located in an area with a generally high crime rate. In fact, the vicinity of a rapid transit station has been shown to be more prone to crime and crimes tend to cluster around it. /nAccording to our data, the effect observed for the San Francisco Bay Area can be reliably observed for Boston and its MBTA network as the lines seem to be distributed across both higher and lower crime areas. While many stations are in the immediate vicinity of high-crime areas, especially but not exclusively in the downtown area, there are also a number of stations in the south, north and north-east of the MBTA network that show no clustering effect on the heat map."}
+
+]}
