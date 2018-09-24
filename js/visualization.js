@@ -10,8 +10,6 @@ var canvas = svg.append('g')
 var height = svg.node().scrollHeight;
 var width = svg.node().scrollWidth;
 
- console.log(width);
-
 var mapColor = '#7DCEEF';
 var mapColor2 = 'transparent';
 
@@ -135,7 +133,6 @@ function draw() {
 	map.classed('map2', true);
 	d3.select('.explore-button').on('click', toggleLogo);
 	d3.select('.title-logo').on('click', toggleTitle);
-
 
 	setTimeout(mapPop, 1000);
 	setTimeout(plotOpenSpace, 1050);
@@ -481,7 +478,7 @@ function drawHeatMap() {
 			}
 		})
 		.attr('d', path)
-	    .style('fill', function (d) {
+	    .style('fill', function (d, i) {
 	    	var color = getHeatMapColor(d.properties.DN);
 
 	    	return color;
@@ -513,7 +510,8 @@ function getHeatMapColor(val) {
 				{"value" : 835, "color" : "rgba(240, 65, 0, .65)"},
 				{"value" : 1111, "color" : "rgba(137, 30, 0, .65)"}];
 
-	var color = "purple";
+	var color = "red";
+
 	for (var i = 0; i < colors.length; i++) {
 		if(colors[i].value == val) {
 			color = colors[i].color;
@@ -549,6 +547,7 @@ function plotOpenSpace() {
 
 	});
 }
+
 function toggleHeatMap() {
 	var bool = d3.select('.heat-map-container').classed('heat-map-on');
 	
@@ -568,8 +567,6 @@ function clickedNeighborhood(d) {
 
 	    d3.select('.tooltip').classed('tooltip-zoomed', true);
 		d3.select('.tooltip-close').on('click', zoomOut);
-
-		console.log(d);
 
 		tooltipObj.title = d.properties.Name;
 		tooltipObj.population = Number(d.properties.population).toLocaleString();
@@ -606,7 +603,7 @@ function zoomOut() {
 }
 
 function heatmapControls() {
-	// d3.select(el).property('disabled', false);
+
 	d3.select('.hm-checkbox-disabled')
 		.classed('hm-checkbox-disabled', false)
 		.property('disabled', false)
@@ -623,7 +620,6 @@ function heatmapInputs() {
 	d3.select(id).style('transition', '.2s').style('transition-delay', '0').style('opacity', opacity);
 }
 
-// d3.selectAll('.key-with-information').on('click', openInformation);
 d3.selectAll('.information-label-screen').on('click', openInformation);
 
 function openInformation() {
